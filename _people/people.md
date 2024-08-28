@@ -29,6 +29,9 @@ permalink: /people/
             {% if person.linkedin %}
               <li><a href="{{ person.linkedin }}" target="_blank">LinkedIn</a></li>
             {% endif %}
+            {% if person.orcid %}
+              <li><a href="{{ person.orcid }}" target="_blank">ORCID</a></li>
+            {% endif %}
             {% if person.scholar %}
               <li><a href="{{ person.scholar }}" target="_blank">Google Scholar</a></li>
             {% endif %}
