@@ -6,6 +6,7 @@ order: 1
 twitter: https://x.com/lei_zhang_lz
 linkedin: https://www.linkedin.com/in/leizhang-lz/
 website: https://lei-zhang.net/
+orcid: https://orcid.org/0000-0002-9586-595X
 
 ---
 
