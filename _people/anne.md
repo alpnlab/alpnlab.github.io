@@ -4,6 +4,7 @@ photo: /images/anne.jpg
 title: "Dr. Anne Saulin, Postdoctoral Fellow"
 order: 2
 twitter: https://x.com/saulinanne?lang=en
+orcid: https://orcid.org/0000-0002-7200-468X
 
 ---
 
